@@ -1,0 +1,360 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 27
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "tests": 27
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_101_securityQuestion"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_101_securityQuestion",
+    "status": "pass",
+    "time": 1.1674480438232,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_102_register"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_102_register",
+    "status": "pass",
+    "time": 3.8228180408478,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_103_getProfile"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_103_getProfile",
+    "status": "pass",
+    "time": 2.4320890903473,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_104_login"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_104_login",
+    "status": "pass",
+    "time": 1.6206240653992,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_105_addCard"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_105_addCard",
+    "status": "pass",
+    "time": 3.294764995575,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_106_getMerchant"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_106_getMerchant",
+    "status": "pass",
+    "time": 0.41301107406616,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_107_createTrans"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_107_createTrans",
+    "status": "pass",
+    "time": 9.5193309783936,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_110_Test__card__id__put"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_110_Test__card__id__put",
+    "status": "pass",
+    "time": 4.5117449760437,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_111_Test__card__id__delete"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_111_Test__card__id__delete",
+    "status": "pass",
+    "time": 1.171364068985,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_112_Test__user_put"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_112_Test__user_put",
+    "status": "pass",
+    "time": 6.2541880607605,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_116_Test__trans_get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_116_Test__trans_get",
+    "status": "pass",
+    "time": 0.48672914505005,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_118_Test__lightbox_post"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_118_Test__lightbox_post",
+    "status": "pass",
+    "time": 0.42011499404907,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_120_Test__trans__id__get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_120_Test__trans__id__get",
+    "status": "pass",
+    "time": 0.45558190345764,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_121_Test__trans__id__put"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_121_Test__trans__id__put",
+    "status": "pass",
+    "time": 0.4168860912323,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_123_Test__merchant__id__get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_123_Test__merchant__id__get",
+    "status": "pass",
+    "time": 0.32864499092102,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_126_Test__lightbox__id__get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_126_Test__lightbox__id__get",
+    "status": "pass",
+    "time": 0.3108069896698,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_127_Test__country_get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_127_Test__country_get",
+    "status": "pass",
+    "time": 0.68371105194092,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_128_Test__prodGroup__id__get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_128_Test__prodGroup__id__get",
+    "status": "pass",
+    "time": 0.7107310295105,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_129_Test__cartItem_post"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_129_Test__cartItem_post",
+    "status": "pass",
+    "time": 0.56361794471741,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_131_Test__card_get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_131_Test__card_get",
+    "status": "pass",
+    "time": 1.4806180000305,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_134_Test__cart_get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_134_Test__cart_get",
+    "status": "pass",
+    "time": 0.8746509552002,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_135_Test__cart__id__get"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_135_Test__cart__id__get",
+    "status": "pass",
+    "time": 0.56290912628174,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_900_Test__forgottenPassword_post"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_900_Test__forgottenPassword_post",
+    "status": "pass",
+    "time": 2.4394059181213,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_901_Test_verifyOTP_put"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_901_Test_verifyOTP_put",
+    "status": "pass",
+    "time": 1.3343029022217,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_903_Test__updatePassword_put"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_903_Test__updatePassword_put",
+    "status": "pass",
+    "time": 2.3130631446838,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_909_Test__resendOTP_post"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_909_Test__resendOTP_post",
+    "status": "pass",
+    "time": 2.0770039558411,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_929_Test__cartItem__id__delete"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Qkr\\AllTest",
+    "test": "MasterCard\\Api\\Qkr\\AllTest::test_929_Test__cartItem__id__delete",
+    "status": "pass",
+    "time": 0.48562717437744,
+    "trace": [],
+    "message": "",
+    "output": ""
+}

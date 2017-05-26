@@ -1,0 +1,29 @@
+MasterCard\Api\Qkr\All
+ [x] 101 securityQuestion
+ [x] 102 register
+ [x] 103 getProfile
+ [x] 104 login
+ [x] 105 addCard
+ [x] 106 getMerchant
+ [x] 107 createTrans
+ [x] 110 Test  card  id  put
+ [x] 111 Test  card  id  delete
+ [x] 112 Test  user put
+ [x] 116 Test  trans get
+ [x] 118 Test  lightbox post
+ [x] 120 Test  trans  id  get
+ [x] 121 Test  trans  id  put
+ [x] 123 Test  merchant  id  get
+ [x] 126 Test  lightbox  id  get
+ [x] 127 Test  country get
+ [x] 128 Test  prodGroup  id  get
+ [x] 129 Test  cartItem post
+ [x] 131 Test  card get
+ [x] 134 Test  cart get
+ [x] 135 Test  cart  id  get
+ [x] 900 Test  forgottenPassword post
+ [x] 901 Test verifyOTP put
+ [x] 903 Test  updatePassword put
+ [x] 909 Test  resendOTP post
+ [x] 929 Test  cartItem  id  delete
+
