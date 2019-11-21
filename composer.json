@@ -1,0 +1,25 @@
+{
+    "name": "mastercard/qkr",
+    "description": "This is the Mastercard qkr SDK",
+    "version": "1.3.0",
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "Mastercard"
+        }
+    ],
+    "require": {
+        "mastercard/mastercard-api-core": ">=1.4.0 <1.5.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.5"
+    },
+    "autoload": {
+        "psr-0": {
+            "MasterCard": ""
+        }
+    },
+    "archive": {
+        "exclude": ["/result", "/*.p12", ".gitignore", "allfiles.tar"]
+    }
+}
